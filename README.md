@@ -23,8 +23,8 @@ Using Sobel operator from cv2,detect the edges of the image.
 Using Laplacian operator from cv2,detect the edges of the image and Using Canny operator from cv2,detect the edges of the image.
 
 ## PROGRAM :
-**DEVELOPED BY : LATHIKESHWARAN J**
-**REGISTER NO : 212222230072**
+**DEVELOPED BY : HARISH G**
+**REGISTER NO : 212222243001**
 ### Convert image to grayscale and remove noise
 ```P
 import cv2
@@ -109,32 +109,25 @@ plt.show()
 ## Output:
 ### SOBEL EDGE DETECTOR
 
-
 **SOBEL X AXIS :**
+![Screenshot 2024-04-02 114317](https://github.com/Harish2404lll/EDGE-DETECTION/assets/141472096/2545ef0e-2b85-46f5-b4dc-24dec6a51b4c)
 
-
-![image](https://github.com/LATHIKESHWARAN/EDGE-DETECTION/assets/119393556/c10b2dc9-beec-4db3-af9f-2a6c9fd8e623)
 
 
 **SOBEL Y AXIS :**
-
-
-![image](https://github.com/LATHIKESHWARAN/EDGE-DETECTION/assets/119393556/d9b1cabe-5ce3-41ff-9dbd-cc8dfd160b84)
+![Screenshot 2024-04-02 114330](https://github.com/Harish2404lll/EDGE-DETECTION/assets/141472096/0a0d8941-d688-4032-8cf9-19d442559098)
 
 
 **SOBEL XY AXIS :**
-
-
-![image](https://github.com/LATHIKESHWARAN/EDGE-DETECTION/assets/119393556/f7c61588-5593-4a3c-97a4-ff6edcabe45a)
+![Screenshot 2024-04-02 114340](https://github.com/Harish2404lll/EDGE-DETECTION/assets/141472096/558084b9-e71e-4df9-a030-ef6f72001e4f)
 
 
 ### LAPLACIAN EDGE DETECTOR
-![image](https://github.com/LATHIKESHWARAN/EDGE-DETECTION/assets/119393556/304350f2-1f41-4534-bd74-8dc1efa12df1)
-
+![Screenshot 2024-04-02 114355](https://github.com/Harish2404lll/EDGE-DETECTION/assets/141472096/1d22b7d2-d574-47d2-a5ba-dd3e50ebeecf)
 
 
 ### CANNY EDGE DETECTOR
-![image](https://github.com/LATHIKESHWARAN/EDGE-DETECTION/assets/119393556/5032bfd4-c613-4002-a3b0-27d89c1a3525)
+![Screenshot 2024-04-02 114408](https://github.com/Harish2404lll/EDGE-DETECTION/assets/141472096/3f87e0e6-f17d-418d-be6a-298dc28ca822)
 
 
 ## Result:
